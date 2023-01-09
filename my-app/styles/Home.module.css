@@ -1,0 +1,68 @@
+.main {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.footer {
+  display: flex;
+  color: black;
+  font-style:italic;
+  font-size:25px;
+  padding: 2rem 0;
+  border-top: 1px dotted black;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(252, 120, 19);
+}
+
+.upper {
+  line-height: 30px;
+  margin: 30px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.image {
+  width: 70%;
+  height: 50%;
+  margin-left: 20%;
+}
+
+.title {
+  font-size: 2rem;
+  margin: 2rem 0;
+}
+
+.description {
+  line-height: 1;
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+
+.button {
+  border-radius: 25px 25px 435px 435px;
+  background-color: blue;
+  border: none;
+  color: black;
+  font-size: 15px;
+  font-weight:bold;
+  font-style: italic;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin-bottom: 2%;
+  background-color: rgb(252, 120, 19);
+
+}
+@media (max-width: 1000px) {
+  .main {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
