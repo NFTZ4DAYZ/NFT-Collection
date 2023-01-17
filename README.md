@@ -1,2 +1,2 @@
 # NFT-Collection
- Hardhat NFT REACT NEXT.js Solidity ethers.js
+ Hardhat NFT REACT NEXT.js Solidity ethers.js project 
