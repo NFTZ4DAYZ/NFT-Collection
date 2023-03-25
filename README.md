@@ -22,7 +22,7 @@
   The project came together flawlessly as a NFT Collection with only 20 unique NFT's.  Prefence is given to Whitelisted Wallets to purchase 1 NFT for 
   5 minute presale period. I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.
   
-  ![Website]https://nft-collection-nu-murex.vercel.app/)
+ ![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
   
   https://nft-collection-nu-murex.vercel.app/
  
