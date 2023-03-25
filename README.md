@@ -24,4 +24,8 @@
   
   
   https://nft-collection-nu-murex.vercel.app/
+  
+  <img src="/my-app/public/next.svg" alt="Alt text" title="Optional title">
+  
+
  
