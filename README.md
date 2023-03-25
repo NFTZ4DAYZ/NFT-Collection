@@ -8,6 +8,7 @@
   
   ~There should be a website for your NFT Collection.
   
+  https://nft-collection-nu-murex.vercel.app/
   
  ## Tech Stack
  
@@ -23,7 +24,7 @@
   5 minute presale period. I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.
   
   
-  https://nft-collection-nu-murex.vercel.app/
+  
   
   <img src="/my-app/public/next.svg" alt="Alt text" title="Optional title">
   
