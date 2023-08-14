@@ -1,4 +1,4 @@
-# NFT Collection
+# NFT Collection  <a href="https://nft-collection-nu-murex.vercel.app/" target="_blank">Play Here</a>
  
   ~There should only exist 20 NFT's and each one of them should be unique.
   
@@ -24,9 +24,9 @@
   5 minute presale period. I added my personal touch when it came to bulding the frontend HTML & CSS a modification on the LW3 Design.
   
   
+<a href='https://nft-collection-nu-murex.vercel.app/' target='_blank'><img src='https://i.postimg.cc/FHdvKh2R/weird.png' border='0' alt='memory-Game'/></a>
   
-  
-  <img src="/my-app/public/next.svg" alt="Alt text" title="Optional title">
+
   
 
  
