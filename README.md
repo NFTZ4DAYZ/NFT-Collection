@@ -1,4 +1,4 @@
-# NFT Collection  <a href="https://nft-collection-nu-murex.vercel.app/" target="_blank">Play Here</a>
+# NFT Collection  <a href="https://nft-collection-nu-murex.vercel.app/" target="_blank">Dive In</a>
  
   ~There should only exist 20 NFT's and each one of them should be unique.
   
@@ -7,8 +7,6 @@
   ~Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
   
   ~There should be a website for your NFT Collection.
-  
-  https://nft-collection-nu-murex.vercel.app/
   
  ## Tech Stack
  
